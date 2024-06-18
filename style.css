@@ -72,6 +72,12 @@ body {
   width: 1.5rem;
   margin-left: 1rem;
 }
+.faqs:first-of-type .icon-plus {
+  display: none;
+}
+.faqs:first-of-type .icon-minus {
+  display: block;
+}
 .icon-minus {
   display: none;
   width: 1.5rem;
