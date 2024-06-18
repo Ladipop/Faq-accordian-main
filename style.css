@@ -95,7 +95,7 @@ body {
   height: auto;
   max-height: 80px;
 }
-@media all and (min-width: 1400px) {
+@media all and (min-width: 1300px) {
   html,
   body {
     height: 100%;
